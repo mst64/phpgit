@@ -2,5 +2,9 @@
 
 function sample()
 {
-    
+
+}
+function doo()
+{
+
 }
